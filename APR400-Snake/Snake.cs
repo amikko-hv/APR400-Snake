@@ -18,7 +18,7 @@ public class Snake
 
     /// <summary>
     /// Move the snake one step in the given direction.
-    /// /// <param name="direction">Direction to move</param>
+    /// <param name="direction">Direction to move</param>
     /// </summary>
     public void Move(Direction direction)
     {
